@@ -1,0 +1,23 @@
+# ---------------------------
+# Python version (documented)
+# ---------------------------
+python>=3.8
+
+# ---------------------------
+# Core utilities
+# ---------------------------
+numpy>=1.21
+opencv-python>=4.5
+
+# ---------------------------
+# Detection & Tracking (Person 2)
+# ---------------------------
+ultralytics>=8.0
+torch>=1.9
+torchvision>=0.10
+
+# ---------------------------
+# (Optional but recommended)
+# ---------------------------
+scipy>=1.7
+matplotlib>=3.5
